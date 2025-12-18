@@ -1,4 +1,7 @@
-# NScript <img src="images/ns.jpg" alt="NScript" width="64" height="64" align="right" />
+<h1>
+  NScript
+  <img src="images/ns.jpg" alt="NScript" width="64" height="64" style="vertical-align: middle;" />
+</h1>
 
 NScript is a lightweight Node.js–inspired module system and standard library for **Windows Script Host (WSH) JScript**.
 
