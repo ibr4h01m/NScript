@@ -1,6 +1,6 @@
-# NScript
+# NScript <img src="images/ns.jpg" alt="NScript" width="64" height="64" align="right" />
 
-NScript is a lightweight Node.js–inspired runtime for **Windows Script Host (WSH) JScript**.
+NScript is a lightweight Node.js–inspired module system and standard library for **Windows Script Host (WSH) JScript**.
 
 It is not a full Node.js clone, but it brings familiar concepts such as `require`, modules, and common utilities into the classic JScript environment, making it easier to build structured, reusable scripts on Windows.
 
