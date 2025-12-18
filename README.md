@@ -1,5 +1,5 @@
-<h1 style="display: flex; align-items: center; gap: 12px; font-size: 56px; line-height: 1;">
-  <img src="images/ns.jpg" alt="NScript" width="56" height="56" />
+<h1 style="display: flex; align-items: center; gap: 12px;">
+  <img src="images/ns.jpg" alt="NScript" width="40" height="40" />
   <span>NScript</span>
 </h1>
 
